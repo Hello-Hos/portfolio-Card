@@ -75,7 +75,7 @@ html, body {
 #container .header {
   position: absolute;
   width: 100%;
-  height: 65px;
+  height: 65px; 
   z-index: 50;
 }
 
