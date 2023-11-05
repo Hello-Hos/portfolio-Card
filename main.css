@@ -7,7 +7,7 @@
 
 .theme--light {
   --back: #dfdfec;
-  --element: linear-gradient(45deg, #bfbfd9, #fff);
+  --element: linear-gradient(45deg, #bfbfd9, #fff); 
   --shadow: #bfbfd9;
   --pils-back: rgba(0, 0, 0, 0.05);
   --text-primary: #333;
